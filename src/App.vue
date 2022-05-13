@@ -297,7 +297,7 @@ main {
 }
 
 .submit:hover {
-  background-color: rgba(43, 43, 43, 0.98);
+  background-color: rgba(255, 255, 255, 0.95);
   transition: 0.4s;
 }
 
