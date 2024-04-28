@@ -1,4 +1,4 @@
-# weer-app
+# NSE Calculator small project for friend
 
 ## Project setup
 ```
